@@ -1,0 +1,10 @@
+# Unity baked assets
+LightingData.asset*
+Lightmap*.png*
+Lightmap*.exr*
+ReflectionProbe*.exr*
+
+# Other assets
+OptimizedShaders*
+temp_module_*
+*Serialized*
