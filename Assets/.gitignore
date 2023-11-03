@@ -1,10 +1,17 @@
 # Unity baked assets
-LightingData.asset*
-Lightmap*.png*
-Lightmap*.exr*
-ReflectionProbe*.exr*
+LightingData.asset
+LightingData.asset.meta
+Lightmap*.png
+Lightmap*.png.meta
+Lightmap*.exr
+Lightmap*.exr.meta
+ReflectionProbe*.exr
+ReflectionProbe*.exr.meta
 
 # Other assets
-OptimizedShaders*
-temp_module_*
-*Serialized*
+# OptimizedShaders/
+# OptimizedShaders.meta
+/SerializedUdonPrograms/
+/SerializedUdonPrograms.meta
+/CyanTrigger/CyanTriggerSerialized/
+/CyanTrigger/CyanTriggerSerialized.meta
