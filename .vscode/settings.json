@@ -1,9 +1,9 @@
 {
     "files.exclude":
     {
-        // "**/*.meta":true,
+        "**/*.meta":true, // Unity metadata files
+        "**/OptimizedShaders/":true, // Poiyomi shader cache
         "**/OptimizedShaders.meta":true,
-        "**/OptimizedShaders/":true,
         "build/":true,
         "Build/":true,
         "Library/":true,
